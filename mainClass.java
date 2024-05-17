@@ -140,7 +140,7 @@ public class mainClass {
 		
 		
 		//visit the root
-		System.out.print(tree.nodes.get(currentNodeIndex));
+		System.out.print(tree.nodes.get(currentNodeIndex) + " ");
 		
 		
 		
