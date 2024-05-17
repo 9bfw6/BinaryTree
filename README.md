@@ -7,12 +7,12 @@ After cloning the repository, open a terminal shell and navigate to the project 
 Type 'javac binaryTree.java mainClass.java' to compile both programs.
 
 To run binaryTree.java, type 'java binaryTree'. No user input is required.
-The program will output the resultingtraversals from the binary tree of minimal height that 
+The program will output the resulting traversals from the binary tree of minimal height that 
 was created from the array [1, 2, 3, 4, 5, 6, 7, 8, 9]. The traversals that will be printed 
 are preorder, postorder, in-order, and breadth first search, respectively.
 
-To run mainClass.java, type 'java mainClass.java'. Because this program builds a binary tree,
-user input should be in the following format:
+To run mainClass.java, type 'java mainClass'. Because this program builds a binary tree,
+user input should be in the following format for each line entered by the user: 
 "root node left child right child"
 For instance, a valid user input would be
 1 2 3
